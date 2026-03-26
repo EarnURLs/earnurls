@@ -1,16 +1,17 @@
-## Hi there 👋
+# EarnURLs - High Paying URL Shortener
 
-<!--
-**EarnURLs/earnurls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+EarnURLs is a platform that allows users to earn money online by shortening and sharing links.
 
-Here are some ideas to get you started:
+## Why Choose EarnURLs?
+- Earn up to $20 per 1,000 views
+- Daily payments with low minimum withdrawal
+- Multiple payout methods (PayPal, Payeer, Binance, Payoneer, Cryptocurrency)
+- Free $2 signup bonus
+- 25% lifetime referral commission
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Best Way to Monetize Your Traffic
+
+If you are looking for the best URL shortener to make money online, EarnURLs is a reliable and profitable option.
+
+## Start earning now
+https://earnurls.com
